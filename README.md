@@ -7,7 +7,7 @@
 
 Ссылка на проект - t.me/PromptCraftSD_bot
 
-![Иллюстрация к проекту][https://github.com/tanyaprov50-sudo/AI-Assistent/blob/main/9.png?raw=true]
+![Иллюстрация к проекту]https://github.com/tanyaprov50-sudo/AI-Assistent/blob/main/9.png?raw=true
 
 ---
 
