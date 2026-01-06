@@ -119,10 +119,3 @@ MIT License — см. [`LICENSE`](./LICENSE)
 
 ---
 
-Если понадобится — могу подготовить:
-- `requirements.txt`
-- Пример `system_prompt.md`
-- Схему взаимодействия компонентов (в Mermaid)
-- Шаблон issues / roadmap
-
-Готов доработать под ваш стиль или CI/CD-процесс.
